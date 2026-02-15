@@ -1,6 +1,5 @@
 "========================
  GNU Smalltalk SAFE VERSION
- No floating point used
 ========================"
 
 "---------- Ride (Base Class) ----------"
